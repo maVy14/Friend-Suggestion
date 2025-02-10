@@ -1,7 +1,7 @@
 # Real-Life Application of Set Operations in Friend Suggestion Algorithms
 
 ## Introduction
-This project implements a simple friend suggestion system using Python dictionaries and set operations. It identifies mutual friends and suggests new friends based on existing connections in a social network.
+This group project was developed as part of my school assignment in Basic Structures in Discrete Mathematics at University of Information Technology(UIT),Yangon,Myanmar.This project implements a simple friend suggestion system using Python dictionaries and set operations. It identifies mutual friends and suggests new friends based on existing connections in a social network.
 
 ## Features
 - Find mutual friends between two users
