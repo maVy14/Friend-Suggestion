@@ -1,4 +1,4 @@
-# Friend Suggestion Algorithm
+# Real-Life Application of Set Operations in Friend Suggestion Algorithms
 
 ## Introduction
 This project implements a simple friend suggestion system using Python dictionaries and set operations. It identifies mutual friends and suggests new friends based on existing connections in a social network.
@@ -28,12 +28,12 @@ Ensure you have Python installed on your system.
 ### Running the Program
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/maVy14/Friend-Suggestion
+   cd Friend-Suggestion
    ```
 2. Run the script:
    ```sh
-   python friend_suggestion.py
+   python fri-suggest.py
    ```
 3. Enter a user's name to receive friend suggestions.
 4. Type 'q' to exit the program.
